@@ -1,6 +1,6 @@
 # Miwok Language Translator
 
-This app displays lists of vocabulary words for the user to learn the Miwok language. Upon tap, an audio clip will be played soundng the correct pronunciation.
+This app displays lists of vocabulary words for the user to learn the Miwok language. When they tap the audio button, an audio clip will be played for the correct pronunciation of the word.
 
 Includes examples of:
 
